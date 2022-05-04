@@ -6,7 +6,6 @@ Aceito
 
 ## Context
 
-What is the issue that we're seeing that is motivating this decision or change?
 O ambiente de desenvlvimento pode ter diferenças muito grandes para o ambiente produtivo. Minimizar essas diferenças significa não correr riscos no momento do deploy. Além disso, ficar refém da capacidade de um servidor com pouca escalabilidade pode tornar uma aplicação instável.
 
 ## Decision
