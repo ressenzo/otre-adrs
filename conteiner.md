@@ -14,4 +14,4 @@ Todas as aplicações e bancos de dados do sistema Otre devem ser feitos em cont
 
 ## Consequences
 
-Com aplicações conteinerizadas, o desenvolvimento fica mais fácil, pois é possível simular o ambiente de produção e, desta forma, evitar surpresas no deploy, auxilia no deploy de microserviços, requer um menor conhecimento de infraestrutura e torna as aplicações mais resilientes, uma vez que elas podem escalar conforme a necessidade.
+Com aplicações conteinerizadas, o desenvolvimento fica mais fácil, pois é possível simular o ambiente de produção e, desta forma, evitar surpresas no deploy, auxilia no deploy de microserviços, requer um menor conhecimento de infraestrutura e torna as aplicações mais resilientes, uma vez que elas auxiliam na escalabilidade horizontal dos microserviços.
